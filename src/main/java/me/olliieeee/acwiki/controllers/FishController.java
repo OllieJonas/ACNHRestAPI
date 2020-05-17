@@ -11,6 +11,7 @@ import org.slf4j.LoggerFactory;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
 
+import javax.servlet.http.HttpServletRequest;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.lang.reflect.Type;
@@ -41,9 +42,9 @@ public class FishController extends AbstractController {
 
     @GetMapping(value = {"/{name}", "/name/{name}"})
     @ResponseStatus(HttpStatus.OK)
-    public Set<Fish> getFishByName(@PathVariable("name") String name) {
-        logger.debug("Request for fish with name " + name + " was made");
-        return service.getFishByName(name);
+    public Set<Fish> getFishByName(@PathVariable("name") String name, HttpServletRequest request) {
+        System.out.println(request.getRemoteAddr());
+        return service.getFishByName(prepareResponse(name));
     }
 
     @GetMapping(value = "/output")
