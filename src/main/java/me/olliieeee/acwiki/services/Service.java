@@ -1,7 +1,13 @@
 package me.olliieeee.acwiki.services;
 
-import org.slf4j.LoggerFactory;
+import me.olliieeee.acwiki.types.ACItem;
 
-public interface Service {
+import java.util.Set;
+
+public interface Service<T extends ACItem> {
     void init();
+
+    Set<T> getByName(String name);
+
+    Set<T> getAll();
 }

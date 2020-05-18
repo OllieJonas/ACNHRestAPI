@@ -1,23 +1,13 @@
 package me.olliieeee.acwiki.controllers;
 
-import com.google.gson.Gson;
-import com.google.gson.reflect.TypeToken;
-import com.google.gson.stream.JsonReader;
-import me.olliieeee.acwiki.services.FishService;
-import me.olliieeee.acwiki.services.FishServiceImpl;
+import me.olliieeee.acwiki.services.museum.FishService;
+import me.olliieeee.acwiki.services.museum.FishServiceImpl;
 import me.olliieeee.acwiki.types.museum.Fish;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
 
-import javax.servlet.http.HttpServletRequest;
-import java.io.FileNotFoundException;
-import java.io.FileReader;
-import java.lang.reflect.Type;
-import java.net.URL;
-import java.util.HashSet;
-import java.util.Objects;
 import java.util.Set;
 import java.util.stream.Collectors;
 
@@ -38,25 +28,30 @@ public class FishController extends AbstractController {
     @ResponseStatus(HttpStatus.OK)
     public Set<Fish> getAll() {
         return service.getAll();
+
     }
 
     @GetMapping(value = {"/{name}", "/name/{name}"})
     @ResponseStatus(HttpStatus.OK)
-    public Set<Fish> getFishByName(@PathVariable("name") String name, HttpServletRequest request) {
-        System.out.println(request.getRemoteAddr());
-        return service.getFishByName(prepareResponse(name));
+    public Set<Fish> getFishByName(@PathVariable("name") String name) {
+        return service.getByName(prepareResponse(name));
+    }
+
+    @GetMapping(value = "/range/months")
+    @ResponseStatus(HttpStatus.OK)
+    public Set<Fish> getFishByMonthRange(@RequestParam("start") int start, @RequestParam("end") int end) {
+        return service.getAll().parallelStream().filter(
+                fish -> fish.getNorthernMonths().get(0) <= start || fish.getNorthernMonths().get(fish.getNorthernMonths().size() - 1) >= end)
+                .collect(Collectors.toSet());
     }
 
     @GetMapping(value = "/output")
-    public Set<Fish> getOutputByName(
-            @RequestParam("name") String name,
-            @RequestParam("location") String location) {
-        return service.getFishByName(name);
-    }
-
-    @GetMapping(value = "/{location/{location}")
-    @ResponseStatus(HttpStatus.OK)
-    public Set<Fish> getFish(@PathVariable("location") String location) {
-        return service.getFishByLocation(location);
+    public Set<Fish> getOutput(
+            @RequestParam(value = "name", required = false) String name,
+            @RequestParam(value = "location", required = false) String location,
+            @RequestParam(value = "price", required = false) Integer price,
+            @RequestParam(value = "shadowsize", required = false) Integer shadowSize,
+            @RequestParam(value = "month", required = false) Integer month) {
+        return service.getOutputByBasic(prepareResponse(name), location, price, shadowSize, month);
     }
 }

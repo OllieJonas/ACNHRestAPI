@@ -5,7 +5,7 @@ import lombok.Getter;
 import lombok.Setter;
 
 @AllArgsConstructor @Getter @Setter
-public class Art {
+public class Art implements MuseumItem {
     private String name;
     private String realImage;
     private String fakeImage;

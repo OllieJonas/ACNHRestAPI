@@ -9,7 +9,7 @@ import java.util.List;
 @AllArgsConstructor
 @Getter
 @Setter
-public class Fish {
+public class Fish implements MuseumItem {
     private String name;
     private String imageLink;
     private int price;
