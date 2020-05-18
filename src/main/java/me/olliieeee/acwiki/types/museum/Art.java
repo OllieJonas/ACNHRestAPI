@@ -9,4 +9,5 @@ public class Art implements MuseumItem {
     private String name;
     private String realImage;
     private String fakeImage;
+    private String description;
 }

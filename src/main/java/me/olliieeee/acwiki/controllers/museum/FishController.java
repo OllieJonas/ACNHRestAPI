@@ -1,7 +1,8 @@
-package me.olliieeee.acwiki.controllers;
+package me.olliieeee.acwiki.controllers.museum;
 
+import me.olliieeee.acwiki.controllers.AbstractController;
 import me.olliieeee.acwiki.services.museum.FishService;
-import me.olliieeee.acwiki.services.museum.FishServiceImpl;
+import me.olliieeee.acwiki.services.museum.impl.FishServiceImpl;
 import me.olliieeee.acwiki.types.museum.Fish;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

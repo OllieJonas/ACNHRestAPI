@@ -8,7 +8,7 @@ import lombok.Setter;
 import java.util.List;
 
 @AllArgsConstructor @Getter @Setter
-public class Bug {
+public class Bug implements MuseumItem {
     private String name;
     private String imageLink;
     private int price;

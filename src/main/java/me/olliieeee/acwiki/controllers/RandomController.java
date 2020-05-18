@@ -1,10 +1,7 @@
 package me.olliieeee.acwiki.controllers;
 
 import org.springframework.http.HttpStatus;
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.RequestParam;
-import org.springframework.web.bind.annotation.ResponseStatus;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.*;
 
 import javax.servlet.http.HttpServletRequest;
 
@@ -17,9 +14,9 @@ public class RandomController extends AbstractController {
         return request.getRemoteAddr();
     }
 
-    @GetMapping(value = "/nulltestbro")
+    @GetMapping(value = "/echo/{echo}")
     @ResponseStatus(HttpStatus.OK)
-    public String getNull(@RequestParam(value = "null", required = false) String nullCheck) {
-        return nullCheck;
+    public String getEcho(@PathVariable(value = "echo") String echo) {
+        return echo;
     }
 }
