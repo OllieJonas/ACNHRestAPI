@@ -1,11 +1,9 @@
 package me.olliieeee.acwiki.controllers.museum;
 
-import me.olliieeee.acwiki.controllers.AbstractController;
+import me.olliieeee.acwiki.controllers.Controller;
 import me.olliieeee.acwiki.services.museum.FishService;
 import me.olliieeee.acwiki.services.museum.impl.FishServiceImpl;
 import me.olliieeee.acwiki.types.museum.Fish;
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
 
@@ -14,28 +12,10 @@ import java.util.stream.Collectors;
 
 @RestController
 @RequestMapping("/fish")
-public class FishController extends AbstractController {
-
-    private static FishService service;
-    private Logger logger = LoggerFactory.getLogger(FishController.class);
+public class FishController extends Controller<Fish> {
 
     public FishController() {
-        logger.info("Loaded FishController");
-        service = new FishServiceImpl();
-        service.init();
-    }
-
-    @GetMapping(value = "")
-    @ResponseStatus(HttpStatus.OK)
-    public Set<Fish> getAll() {
-        return service.getAll();
-
-    }
-
-    @GetMapping(value = {"/{name}", "/name/{name}"})
-    @ResponseStatus(HttpStatus.OK)
-    public Set<Fish> getFishByName(@PathVariable("name") String name) {
-        return service.getByName(prepareResponse(name));
+        super(new FishServiceImpl());
     }
 
     @GetMapping(value = "/range/months")
@@ -53,6 +33,6 @@ public class FishController extends AbstractController {
             @RequestParam(value = "price", required = false) Integer price,
             @RequestParam(value = "shadowsize", required = false) Integer shadowSize,
             @RequestParam(value = "month", required = false) Integer month) {
-        return service.getOutputByBasic(prepareResponse(name), location, price, shadowSize, month);
+        return service.getByBasic(prepareResponse(name), location, price, shadowSize, month);
     }
 }

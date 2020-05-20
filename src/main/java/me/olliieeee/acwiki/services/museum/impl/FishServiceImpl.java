@@ -25,8 +25,6 @@ public class FishServiceImpl extends MuseumServiceImpl<Fish> implements FishServ
 
     @Override
     public Set<Fish> getOutputByBasic(String name, String location, Integer price, Integer shadowSize, Integer month) {
-
-        Predicate<Fish> TRUE = ignored -> true;
         Set<Predicate<Fish>> predicates = new HashSet<>();
 
         predicates.add(name != null ? e -> e.getName().toLowerCase().contains(name.toLowerCase()) : TRUE);

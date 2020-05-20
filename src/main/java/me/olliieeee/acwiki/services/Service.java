@@ -10,4 +10,8 @@ public interface Service<T extends ACItem> {
     Set<T> getByName(String name);
 
     Set<T> getAll();
+
+    default Set<T> getByBasic(String prepareResponse, String location, Integer price, Integer shadowSize, Integer month) {
+        return null;
+    }
 }

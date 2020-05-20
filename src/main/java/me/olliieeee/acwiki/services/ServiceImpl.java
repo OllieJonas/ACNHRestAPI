@@ -11,6 +11,7 @@ import java.lang.reflect.Type;
 import java.net.URL;
 import java.util.Objects;
 import java.util.Set;
+import java.util.function.Predicate;
 import java.util.function.Supplier;
 import java.util.stream.Collectors;
 
@@ -19,6 +20,8 @@ public abstract class ServiceImpl<T extends ACItem> implements Service<T> {
     protected final Supplier<TypeToken<Set<T>>> supplier;
 
     protected final String file;
+
+    protected final Predicate<T> TRUE = ignored -> true;
 
     protected Set<T> items;
 

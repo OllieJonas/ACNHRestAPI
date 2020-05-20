@@ -12,9 +12,9 @@ import java.util.List;
 public class Fish implements MuseumItem {
     private String name;
     private String imageLink;
-    private int price;
+    private Integer price;
     private String location;
-    private int shadowSize;
+    private Integer shadowSize;
     private List<Integer> times;
     private List<Integer> northernMonths;
     private List<Integer> southernMonths;

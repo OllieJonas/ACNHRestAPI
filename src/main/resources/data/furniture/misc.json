@@ -261,7 +261,7 @@
             "kits": "1",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Arowana model",
@@ -304,7 +304,7 @@
                 "Custom Design"
             ]
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Baby panda",
@@ -385,7 +385,7 @@
             "kits": "2",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Bamboo drum",
@@ -406,7 +406,7 @@
             "kits": "1",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Bamboo lunch box",
@@ -427,7 +427,7 @@
             "kits": "1",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Bamboo sphere",
@@ -448,7 +448,7 @@
             "kits": "1",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Bamboo-shoot lamp",
@@ -609,7 +609,7 @@
             "kits": "1",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Birthday candles",
@@ -633,7 +633,7 @@
             "kits": "1",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Bitterling model",
@@ -1095,7 +1095,7 @@
                 "Custom Design"
             ]
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Cassette player",
@@ -1255,7 +1255,7 @@
             "kits": "5",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Cherry-blossom bonsai",
@@ -1359,7 +1359,7 @@
             "kits": "2",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Clown fish model",
@@ -1644,7 +1644,7 @@
                 "Custom Design"
             ]
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Cute music player",
@@ -1691,7 +1691,7 @@
                 "Custom Design"
             ]
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Cyclommatus stag model",
@@ -1773,7 +1773,7 @@
             "kits": "2",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "DAL mug",
@@ -1814,7 +1814,7 @@
             "kits": "2",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Damselfly model",
@@ -1879,7 +1879,7 @@
             "kits": "1",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Desk mirror",
@@ -1925,7 +1925,7 @@
                 "Custom Design"
             ]
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Digital alarm clock",
@@ -2028,7 +2028,7 @@
                 "Custom Design"
             ]
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Dolly",
@@ -2271,7 +2271,7 @@
                 "Custom Design"
             ]
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Festive top set",
@@ -2595,7 +2595,7 @@
             "kits": "7",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Fruit basket",
@@ -2639,7 +2639,7 @@
             "kits": "2",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Gar model",
@@ -3282,7 +3282,7 @@
             "kits": "1",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Homework set",
@@ -3446,7 +3446,7 @@
             "kits": "2",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Humidifier",
@@ -3487,7 +3487,7 @@
             "kits": "4",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Incense burner",
@@ -3550,7 +3550,7 @@
                 "Custom Design"
             ]
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Jewel beetle model",
@@ -3613,7 +3613,7 @@
             "kits": "4",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Kettle",
@@ -3657,7 +3657,7 @@
             "kits": "5",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Killifish model",
@@ -3822,7 +3822,7 @@
                 "Custom Design"
             ]
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "LCD TV (20 in.)",
@@ -3962,7 +3962,7 @@
             "kits": "3",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Lucky gold cat",
@@ -4028,7 +4028,7 @@
                 "Custom Design"
             ]
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Magazine rack",
@@ -4063,7 +4063,7 @@
                 "Custom Design"
             ]
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Magic kit",
@@ -4166,7 +4166,7 @@
             "kits": "1",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Metal can",
@@ -4371,7 +4371,7 @@
             "kits": "1",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Mole cricket model",
@@ -4415,7 +4415,7 @@
             "kits": "1",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Mom's cushion",
@@ -4439,7 +4439,7 @@
             "kits": "1",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Mom's homemade cake",
@@ -4463,7 +4463,7 @@
             "kits": "1",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Mom's pen stand",
@@ -4487,7 +4487,7 @@
             "kits": "1",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Mom's plushie",
@@ -4511,7 +4511,7 @@
             "kits": "1",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Mom's tea cozy",
@@ -4535,7 +4535,7 @@
             "kits": "1",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Mom's tissue box",
@@ -4559,7 +4559,7 @@
             "kits": "1",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Monarch butterfly model",
@@ -4684,7 +4684,7 @@
                 "Custom Design"
             ]
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Nail-art set",
@@ -4809,7 +4809,7 @@
             "kits": "4",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Nutcracker",
@@ -4829,7 +4829,7 @@
             "kits": "2",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Oarfish model",
@@ -4972,7 +4972,7 @@
                 "Custom Design"
             ]
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Pale chub model",
@@ -5052,7 +5052,7 @@
             "kits": "4",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Peacock butterfly model",
@@ -5296,7 +5296,7 @@
             "kits": "1",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Pocket vintage camper",
@@ -5320,7 +5320,7 @@
             "kits": "1",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Pond smelt model",
@@ -5463,7 +5463,7 @@
             "kits": "2",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Pro tape recorder",
@@ -5686,7 +5686,7 @@
                 "Custom Design"
             ]
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Recycled-can thumb piano",
@@ -5710,7 +5710,7 @@
             "kits": "2",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Red dragonfly model",
@@ -5872,7 +5872,7 @@
             "kits": "1",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Robust cicada model",
@@ -6256,7 +6256,7 @@
             "kits": "6",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Shell speaker",
@@ -6280,7 +6280,7 @@
             "kits": "7",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Silver bug trophy",
@@ -6522,7 +6522,7 @@
             "kits": "1",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Stacked magazines",
@@ -6548,7 +6548,7 @@
                 "Custom Design"
             ]
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Stand mixer",
@@ -6593,7 +6593,7 @@
             "kits": "3",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Steamer-basket set",
@@ -6819,7 +6819,7 @@
                 "Custom Design"
             ]
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Table setting",
@@ -6843,7 +6843,7 @@
                 "Custom Design"
             ]
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Tabletop festive tree",
@@ -6867,7 +6867,7 @@
             "kits": "2",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Tadpole model",
@@ -6950,7 +6950,7 @@
                 "Custom Design"
             ]
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Terrarium",
@@ -6971,7 +6971,7 @@
             "kits": "3",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Thank-you Dad mug",
@@ -7333,7 +7333,7 @@
             "kits": "1",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Tree's bounty lamp",
@@ -7353,7 +7353,7 @@
             "kits": "5",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Tree's bounty little tree",
@@ -7373,7 +7373,7 @@
             "kits": "6",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Tuna model",
@@ -7435,7 +7435,7 @@
             "kits": "1",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Unfinished puzzle",
@@ -7459,7 +7459,7 @@
                 "Custom Design"
             ]
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Unglazed dish set",
@@ -7483,7 +7483,7 @@
             "kits": "1",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Violin beetle model",
@@ -7604,7 +7604,7 @@
             "kits": "2",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Wedding candle set",
@@ -7625,7 +7625,7 @@
             "kits": "1",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Whale shark model",
@@ -7686,7 +7686,7 @@
             "kits": "3",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Wobbling Zipper toy",
@@ -7727,7 +7727,7 @@
             "kits": "1",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Wooden table mirror",
@@ -7753,7 +7753,7 @@
             "kits": "2",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Wooden toolbox",
@@ -7775,7 +7775,7 @@
             "kits": "3",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Wooden-block toy",
@@ -7798,7 +7798,7 @@
             "kits": "1",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Yellow butterfly model",

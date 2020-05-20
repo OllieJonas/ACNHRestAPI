@@ -11,9 +11,13 @@ import java.util.List;
 public class Bug implements MuseumItem {
     private String name;
     private String imageLink;
-    private int price;
+    private Integer price;
     private String location;
     private List<Integer> times;
+
+    @SerializedName("northern_months")
     private List<Integer> northernMonths;
+
+    @SerializedName("southern_months")
     private List<Integer> southernMonths;
 }

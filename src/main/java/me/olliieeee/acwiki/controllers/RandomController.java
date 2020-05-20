@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.*;
 import javax.servlet.http.HttpServletRequest;
 
 @RestController
-public class RandomController extends AbstractController {
+public class RandomController {
 
     @GetMapping(value = "/wtfismyipbro")
     @ResponseStatus(HttpStatus.OK)

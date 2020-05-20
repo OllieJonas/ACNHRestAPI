@@ -5,8 +5,8 @@ import lombok.Getter;
 import lombok.Setter;
 
 @AllArgsConstructor @Getter @Setter
-public class Standalone {
+public class Standalone implements MuseumItem {
     private String name;
     private String imageLink;
-    private int price;
+    private Integer price;
 }

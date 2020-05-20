@@ -58,7 +58,7 @@
                 "Custom Design"
             ]
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Bamboo wall decoration",
@@ -79,7 +79,7 @@
             "kits": "1",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Bathroom towel rack",
@@ -145,7 +145,7 @@
             "kits": "1",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Boomerang",
@@ -168,7 +168,7 @@
             "kits": "1",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Breaker",
@@ -235,7 +235,7 @@
         "imageLink": "/wiki/Special:Upload?wpDestFile=NH-Furniture-Bug_plaque.png",
         "buy_price": 1200,
         "sell_price": 300,
-        "source": "Unknown",
+        "source": "International Museum Day",
         "variations": {
             "type": "N/A",
             "options": "N/A"
@@ -348,7 +348,7 @@
             "kits": "4",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Cherry-blossom clock",
@@ -368,7 +368,7 @@
             "kits": "4",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Chic cosmos wreath",
@@ -510,7 +510,7 @@
                 "Custom Design"
             ]
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Cosmos wreath",
@@ -554,7 +554,7 @@
             "kits": "1",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Cuckoo clock",
@@ -677,7 +677,7 @@
             "kits": "2",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Diner neon clock",
@@ -699,7 +699,7 @@
                 "Custom Design"
             ]
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Double-sided wall clock",
@@ -825,14 +825,14 @@
             "kits": "1",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Fish plaque",
         "imageLink": "/wiki/Special:Upload?wpDestFile=NH-Furniture-Fish_plaque.png",
         "buy_price": 1200,
         "sell_price": 300,
-        "source": "Unknown",
+        "source": "International Museum Day",
         "variations": {
             "type": "N/A",
             "options": "N/A"
@@ -870,7 +870,7 @@
             "kits": "1",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Fishing-boat flag",
@@ -913,7 +913,7 @@
             "kits": "1",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Formal paper",
@@ -953,14 +953,14 @@
             "kits": "1",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Fossil plaque",
         "imageLink": "/wiki/Special:Upload?wpDestFile=NH-Furniture-Fossil_plaque.png",
         "buy_price": 1200,
         "sell_price": 300,
-        "source": "Unknown",
+        "source": "International Museum Day",
         "variations": {
             "type": "N/A",
             "options": "N/A"
@@ -1117,7 +1117,7 @@
                 "Custom Design"
             ]
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Hanging terrarium",
@@ -1138,7 +1138,7 @@
             "kits": "5",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Heart doorplate",
@@ -1284,7 +1284,7 @@
             "kits": "1",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Iron wall lamp",
@@ -1304,7 +1304,7 @@
             "kits": "5",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Iron wall rack",
@@ -1324,7 +1324,7 @@
             "kits": "4",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Ironwood clock",
@@ -1347,7 +1347,7 @@
             "kits": "3",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Key holder",
@@ -1369,7 +1369,7 @@
             "kits": "2",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Leo sculpture",
@@ -1451,7 +1451,7 @@
             "kits": "2",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Macrame tapestry",
@@ -1557,7 +1557,7 @@
             "kits": "NA",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Mom's embroidery",
@@ -1581,7 +1581,7 @@
             "kits": "NA",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Mounted black bass",
@@ -1701,7 +1701,7 @@
             "kits": "3",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Ornament mobile",
@@ -1725,7 +1725,7 @@
             "kits": "1",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Ornament wreath",
@@ -1751,7 +1751,7 @@
             "kits": "1",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Pansy wreath",
@@ -1817,7 +1817,7 @@
             "kits": "1",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Pendulum clock",
@@ -1899,7 +1899,7 @@
             "kits": "2",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Pretty cosmos wreath",
@@ -2165,7 +2165,7 @@
             "kits": "NA",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Spider web",
@@ -2210,7 +2210,7 @@
             "kits": "7",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Studio wall spotlight",
@@ -2316,7 +2316,7 @@
             "kits": "1",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Tree branch wreath",
@@ -2356,7 +2356,7 @@
             "kits": "3",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Tulip wreath",
@@ -2577,7 +2577,7 @@
             "kits": "1",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Windflower wreath",
@@ -2620,7 +2620,7 @@
             "kits": "2",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Wooden-plank sign",
@@ -2642,7 +2642,7 @@
             "kits": "1",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "World map",
@@ -2662,7 +2662,7 @@
             "kits": "1",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Writing poster",

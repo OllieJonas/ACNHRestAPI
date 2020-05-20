@@ -7,7 +7,7 @@ import lombok.Setter;
 @AllArgsConstructor
 @Getter
 @Setter
-public class Villager {
+public class Villager implements ACItem {
     private String name;
     private String imageLink;
     private String personality;

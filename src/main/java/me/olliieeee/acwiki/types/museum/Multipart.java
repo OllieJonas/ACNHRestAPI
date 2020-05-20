@@ -7,8 +7,8 @@ import lombok.Setter;
 import java.util.List;
 
 @AllArgsConstructor @Getter @Setter
-public class Multipart {
+public class Multipart implements MuseumItem {
     private String name;
-    private int price;
+    private Integer price;
     private List<Standalone> parts;
 }

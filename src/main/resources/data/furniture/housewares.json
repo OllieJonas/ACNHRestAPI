@@ -22,7 +22,7 @@
             "kits": "5",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Air circulator",
@@ -106,7 +106,7 @@
             "kits": "2",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Angled signpost",
@@ -132,7 +132,7 @@
             "kits": "1",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Antique bed",
@@ -332,7 +332,7 @@
             "kits": "4",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Aquarius urn",
@@ -556,7 +556,7 @@
                 "Custom Design"
             ]
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Bamboo basket",
@@ -577,7 +577,7 @@
             "kits": "2",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Bamboo bench",
@@ -598,7 +598,7 @@
             "kits": "2",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Bamboo doll",
@@ -639,7 +639,7 @@
             "kits": "2",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Bamboo noodle slide",
@@ -680,7 +680,7 @@
             "kits": "3",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Bamboo shelf",
@@ -701,7 +701,7 @@
             "kits": "4",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Bamboo speaker",
@@ -722,7 +722,7 @@
             "kits": "2",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Bamboo stool",
@@ -743,7 +743,7 @@
             "kits": "2",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Bamboo stopblock",
@@ -764,7 +764,7 @@
             "kits": "1",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Barbecue",
@@ -806,7 +806,7 @@
             "kits": "7",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Barrel",
@@ -932,7 +932,7 @@
                 "Custom Design"
             ]
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Beekeeper's hive",
@@ -955,7 +955,7 @@
             "kits": "4",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Bidet",
@@ -999,7 +999,7 @@
             "kits": "5",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Billiard table",
@@ -1041,7 +1041,7 @@
             "kits": "2",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Birdcage",
@@ -1064,7 +1064,7 @@
             "kits": "2",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Birdhouse",
@@ -1088,7 +1088,7 @@
             "kits": "2",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Birthday sign",
@@ -1112,7 +1112,7 @@
             "kits": "1",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Birthday table",
@@ -1136,7 +1136,7 @@
             "kits": "1",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Blossom-viewing lantern",
@@ -1156,7 +1156,7 @@
             "kits": "4",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Blue corner",
@@ -1180,7 +1180,7 @@
                 "Custom Design"
             ]
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Bonfire",
@@ -1302,7 +1302,7 @@
             "kits": "6",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Brick well",
@@ -1323,7 +1323,7 @@
             "kits": "4",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Bunk bed",
@@ -1347,7 +1347,7 @@
                 "Custom Design"
             ]
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Bunny Day arch",
@@ -1527,7 +1527,7 @@
             "kits": "3",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Cacao tree",
@@ -1707,7 +1707,7 @@
             "kits": "1",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Cardboard chair",
@@ -1727,7 +1727,7 @@
             "kits": "1",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Cardboard sofa",
@@ -1747,7 +1747,7 @@
             "kits": "1",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Cardboard table",
@@ -1767,7 +1767,7 @@
             "kits": "1",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Cat tower",
@@ -1874,7 +1874,7 @@
                 "Custom Design"
             ]
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Cherry-blossom branches",
@@ -1958,7 +1958,7 @@
             "kits": "2",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Claw-foot tub",
@@ -2062,7 +2062,7 @@
                 "Custom Design"
             ]
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Clothesline pole",
@@ -2085,7 +2085,7 @@
                 "Custom Design"
             ]
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Colorful wheel",
@@ -2166,7 +2166,7 @@
             "kits": "5",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Cotton-candy stall",
@@ -2211,7 +2211,7 @@
             "kits": "7",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Crewed spaceship",
@@ -2472,7 +2472,7 @@
             "kits": "3",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Deluxe washer",
@@ -2556,7 +2556,7 @@
             "kits": "2",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Digital scale",
@@ -2580,7 +2580,7 @@
                 "Custom Design"
             ]
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Diner chair",
@@ -2742,7 +2742,7 @@
                 "Custom Design"
             ]
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "DIY workbench",
@@ -2768,7 +2768,7 @@
             "kits": "7",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "DJ's turntable",
@@ -2795,7 +2795,7 @@
                 "Custom Design"
             ]
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Doghouse",
@@ -2818,7 +2818,7 @@
             "kits": "3",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Double sofa",
@@ -2881,7 +2881,7 @@
                 "Custom Design"
             ]
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Drinking fountain",
@@ -2903,7 +2903,7 @@
             "kits": "4",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Drum set",
@@ -2928,7 +2928,7 @@
                 "Custom Design"
             ]
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Drying rack",
@@ -2975,7 +2975,7 @@
                 "Custom Design"
             ]
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Elaborate kimono stand",
@@ -3042,7 +3042,7 @@
                 "Custom Design"
             ]
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Electric kick scooter",
@@ -3186,7 +3186,7 @@
             "kits": "2",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Fire pit",
@@ -3247,7 +3247,7 @@
             "kits": "1",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Fishing-rod stand",
@@ -3268,7 +3268,7 @@
             "kits": "1",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Flashy-flower sign",
@@ -3335,7 +3335,7 @@
                 "Custom Design"
             ]
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Floor light",
@@ -3378,7 +3378,7 @@
                 "Custom Design"
             ]
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Flower stand",
@@ -3403,7 +3403,7 @@
             "kits": "4",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Flying saucer",
@@ -3525,7 +3525,7 @@
             "kits": "7",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Freezer",
@@ -3590,7 +3590,7 @@
             "kits": "7",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Frozen bed",
@@ -3621,7 +3621,7 @@
                 "Custom Design"
             ]
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Frozen chair",
@@ -3646,7 +3646,7 @@
             "kits": "7",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Frozen counter",
@@ -3671,7 +3671,7 @@
             "kits": "7",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Frozen partition",
@@ -3696,7 +3696,7 @@
             "kits": "7",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Frozen pillar",
@@ -3721,7 +3721,7 @@
             "kits": "7",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Frozen sculpture",
@@ -3746,7 +3746,7 @@
             "kits": "7",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Frozen table",
@@ -3771,7 +3771,7 @@
             "kits": "7",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Frozen tree",
@@ -3796,7 +3796,7 @@
             "kits": "7",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Futon",
@@ -3819,7 +3819,7 @@
                 "Custom Design"
             ]
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Garbage bin",
@@ -3903,7 +3903,7 @@
             "kits": "6",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Garden faucet",
@@ -3985,7 +3985,7 @@
             "kits": "5",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Gas range",
@@ -4055,7 +4055,7 @@
                 "Custom Design"
             ]
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Go board",
@@ -4175,7 +4175,7 @@
             "kits": "7",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Grand Atlas moth model",
@@ -4277,7 +4277,7 @@
             "kits": "1",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Green-leaf pile",
@@ -4320,7 +4320,7 @@
                 "Custom Design"
             ]
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Handcart",
@@ -4381,7 +4381,7 @@
             "kits": "1",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Hearth",
@@ -4426,7 +4426,7 @@
             "kits": "1",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Hi-fi stereo",
@@ -4508,7 +4508,7 @@
             "kits": "4",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Illuminated reindeer",
@@ -4531,7 +4531,7 @@
             "kits": "6",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Illuminated snowflakes",
@@ -4553,7 +4553,7 @@
             "kits": "5",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Illuminated tree",
@@ -4577,7 +4577,7 @@
             "kits": "7",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Imperial bed",
@@ -4737,7 +4737,7 @@
             "kits": "7",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Iron frame",
@@ -4758,7 +4758,7 @@
             "kits": "7",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Iron garden bench",
@@ -4781,7 +4781,7 @@
             "kits": "7",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Iron garden chair",
@@ -4804,7 +4804,7 @@
             "kits": "3",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Iron garden table",
@@ -4827,7 +4827,7 @@
             "kits": "5",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Iron hanger stand",
@@ -4851,7 +4851,7 @@
                 "Custom Design"
             ]
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Iron shelf",
@@ -4871,7 +4871,7 @@
             "kits": "7",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Iron worktable",
@@ -4891,7 +4891,7 @@
             "kits": "7",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Ironing board",
@@ -4915,7 +4915,7 @@
                 "Custom Design"
             ]
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Ironwood bed",
@@ -4943,7 +4943,7 @@
                 "Custom Design"
             ]
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Ironwood cart",
@@ -4966,7 +4966,7 @@
             "kits": "5",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Ironwood chair",
@@ -4989,7 +4989,7 @@
             "kits": "3",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Ironwood cupboard",
@@ -5012,7 +5012,7 @@
             "kits": "7",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Ironwood DIY workbench",
@@ -5035,7 +5035,7 @@
             "kits": "7",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Ironwood dresser",
@@ -5058,7 +5058,7 @@
             "kits": "6",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Ironwood kitchenette",
@@ -5081,7 +5081,7 @@
             "kits": "7",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Ironwood low table",
@@ -5104,7 +5104,7 @@
             "kits": "5",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Ironwood table",
@@ -5127,7 +5127,7 @@
             "kits": "7",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Jail bars",
@@ -5148,7 +5148,7 @@
             "kits": "5",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Juicy-apple TV",
@@ -5168,7 +5168,7 @@
             "kits": "5",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Jukebox",
@@ -5231,7 +5231,7 @@
                 "Custom Design"
             ]
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Kitchen island",
@@ -5294,7 +5294,7 @@
                 "Custom Design"
             ]
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Large cardboard boxes",
@@ -5374,7 +5374,7 @@
             "kits": "2",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Leaf stool",
@@ -5396,7 +5396,7 @@
             "kits": "3",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Lecture-hall bench",
@@ -5497,7 +5497,7 @@
             "kits": "5",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Loft bed with desk",
@@ -5524,7 +5524,7 @@
                 "Custom Design"
             ]
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Log bed",
@@ -5552,7 +5552,7 @@
                 "Custom Design"
             ]
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Log bench",
@@ -5574,7 +5574,7 @@
             "kits": "1",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Log chair",
@@ -5603,7 +5603,7 @@
                 "Custom Design"
             ]
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Log decorative shelves",
@@ -5632,7 +5632,7 @@
                 "Custom Design"
             ]
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Log dining table",
@@ -5661,7 +5661,7 @@
                 "Custom Design"
             ]
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Log extra-long sofa",
@@ -5690,7 +5690,7 @@
                 "Custom Design"
             ]
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Log garden lounge",
@@ -5719,7 +5719,7 @@
                 "Custom Design"
             ]
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Log round table",
@@ -5748,7 +5748,7 @@
                 "Custom Design"
             ]
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Log stakes",
@@ -5770,7 +5770,7 @@
             "kits": "1",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Log stool",
@@ -5792,7 +5792,7 @@
             "kits": "1",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Long bathtub",
@@ -5835,7 +5835,7 @@
                 "Custom Design"
             ]
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Low screen",
@@ -5859,7 +5859,7 @@
                 "Custom Design"
             ]
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Lunar lander",
@@ -5922,7 +5922,7 @@
                 "Custom Design"
             ]
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Mama panda",
@@ -5965,7 +5965,7 @@
             "kits": "3",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Maple-leaf pond stone",
@@ -6111,7 +6111,7 @@
             "kits": "4",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Mini fridge",
@@ -6295,7 +6295,7 @@
             "kits": "2",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Mr. Flamingo",
@@ -6356,7 +6356,7 @@
             "kits": "1",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Mush lamp",
@@ -6379,7 +6379,7 @@
             "kits": "3",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Mush log",
@@ -6402,7 +6402,7 @@
             "kits": "3",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Mush low stool",
@@ -6425,7 +6425,7 @@
             "kits": "2",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Mush parasol",
@@ -6448,7 +6448,7 @@
             "kits": "2",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Mush partition",
@@ -6471,7 +6471,7 @@
             "kits": "3",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Mush table",
@@ -6494,7 +6494,7 @@
             "kits": "3",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Music stand",
@@ -6516,7 +6516,7 @@
             "kits": "2",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Natural garden chair",
@@ -6537,7 +6537,7 @@
             "kits": "3",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Natural garden table",
@@ -6558,7 +6558,7 @@
             "kits": "5",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Natural square table",
@@ -6579,7 +6579,7 @@
             "kits": "3",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Neutral corner",
@@ -6603,7 +6603,7 @@
                 "Custom Design"
             ]
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Ocean sunfish model",
@@ -6687,7 +6687,7 @@
             "kits": "1",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "OK Motors sign",
@@ -6767,7 +6767,7 @@
             "kits": "4",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Outdoor air conditioner",
@@ -6809,7 +6809,7 @@
             "kits": "6",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Outdoor bench",
@@ -6835,7 +6835,7 @@
                 "Custom Design"
             ]
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Outdoor generator",
@@ -6901,7 +6901,7 @@
                 "Custom Design"
             ]
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Pagoda",
@@ -6922,7 +6922,7 @@
             "kits": "3",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Palm-tree lamp",
@@ -6944,7 +6944,7 @@
             "kits": "5",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Pansy table",
@@ -6965,7 +6965,7 @@
             "kits": "2",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Pants press",
@@ -7008,7 +7008,7 @@
                 "Custom Design"
             ]
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Papa panda",
@@ -7052,7 +7052,7 @@
                 "Custom Design"
             ]
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Parabolic antenna",
@@ -7112,7 +7112,7 @@
             "kits": "4",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Pear bed",
@@ -7132,7 +7132,7 @@
             "kits": "4",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Pear wardrobe",
@@ -7152,7 +7152,7 @@
             "kits": "4",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Pet bed",
@@ -7176,7 +7176,7 @@
                 "Custom Design"
             ]
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Phone box",
@@ -7262,7 +7262,7 @@
                 "Custom Design"
             ]
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Pinball machine",
@@ -7326,7 +7326,7 @@
             "kits": "4",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Plain wooden shop sign",
@@ -7353,7 +7353,7 @@
                 "Custom Design"
             ]
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Plastic pool",
@@ -7433,7 +7433,7 @@
             "kits": "2",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Pool",
@@ -7477,7 +7477,7 @@
                 "Custom Design"
             ]
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Popcorn machine",
@@ -7801,7 +7801,7 @@
                 "Custom Design"
             ]
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Red-leaf pile",
@@ -7845,7 +7845,7 @@
                 "Custom Design"
             ]
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Retro fan",
@@ -7887,7 +7887,7 @@
                 "Custom Design"
             ]
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Retro stereo",
@@ -7933,7 +7933,7 @@
             "kits": "50",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Rock guitar",
@@ -7960,7 +7960,7 @@
                 "Custom Design"
             ]
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Rocket",
@@ -8023,7 +8023,7 @@
             "kits": "2",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Rocking horse",
@@ -8047,7 +8047,7 @@
             "kits": "1",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Rose bed",
@@ -8068,7 +8068,7 @@
             "kits": "2",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Round space heater",
@@ -8231,7 +8231,7 @@
                 "Custom Design"
             ]
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "School chair",
@@ -8375,7 +8375,7 @@
             "kits": "7",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Shell bed",
@@ -8399,7 +8399,7 @@
             "kits": "7",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Shell fountain",
@@ -8423,7 +8423,7 @@
             "kits": "7",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Shell partition",
@@ -8447,7 +8447,7 @@
             "kits": "7",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Shell stool",
@@ -8471,7 +8471,7 @@
             "kits": "1",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Shell table",
@@ -8495,7 +8495,7 @@
             "kits": "4",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Shower booth",
@@ -8541,7 +8541,7 @@
             "kits": "1",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Silo",
@@ -8564,7 +8564,7 @@
             "kits": "7",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Silver mic",
@@ -8631,7 +8631,7 @@
                 "Custom Design"
             ]
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Simple well",
@@ -8713,7 +8713,7 @@
             "kits": "2",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Small cardboard boxes",
@@ -9026,7 +9026,7 @@
                 "Custom Design"
             ]
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Standard umbrella stand",
@@ -9054,7 +9054,7 @@
                 "Custom Design"
             ]
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Standing toilet",
@@ -9114,7 +9114,7 @@
             "kits": "7",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Stone lion-dog",
@@ -9135,7 +9135,7 @@
             "kits": "3",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Stone stool",
@@ -9195,7 +9195,7 @@
             "kits": "3",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Stonehenge",
@@ -9255,7 +9255,7 @@
             "kits": "7",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Streetlamp",
@@ -9338,7 +9338,7 @@
             "kits": "2",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Synthesizer",
@@ -9405,7 +9405,7 @@
                 "Custom Design"
             ]
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Tall garden rock",
@@ -9446,7 +9446,7 @@
             "kits": "4",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Tankless toilet",
@@ -9529,7 +9529,7 @@
             "kits": "2",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Teacup ride",
@@ -9631,7 +9631,7 @@
             "kits": "7",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Throwback dino screen",
@@ -9775,7 +9775,7 @@
             "kits": "2",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Tire stack",
@@ -9797,7 +9797,7 @@
             "kits": "1",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Tire toy",
@@ -9821,7 +9821,7 @@
             "kits": "1",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Toilet",
@@ -10004,7 +10004,7 @@
             "kits": "3",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Tree's bounty arch",
@@ -10024,7 +10024,7 @@
             "kits": "7",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Tree's bounty big tree",
@@ -10044,7 +10044,7 @@
             "kits": "7",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Tricycle",
@@ -10105,7 +10105,7 @@
             "kits": "2",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "TV camera",
@@ -10149,7 +10149,7 @@
                 "Custom Design"
             ]
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Upright piano",
@@ -10312,7 +10312,7 @@
                 "Custom Design"
             ]
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Virgo harp",
@@ -10374,7 +10374,7 @@
             "kits": "4",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Wave breaker",
@@ -10415,7 +10415,7 @@
             "kits": "7",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Wedding bench",
@@ -10436,7 +10436,7 @@
             "kits": "2",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Wedding chair",
@@ -10457,7 +10457,7 @@
             "kits": "2",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Wedding flower stand",
@@ -10478,7 +10478,7 @@
             "kits": "2",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Wedding head table",
@@ -10499,7 +10499,7 @@
             "kits": "1",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Wedding pipe organ",
@@ -10520,7 +10520,7 @@
             "kits": "7",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Wedding table",
@@ -10541,7 +10541,7 @@
             "kits": "2",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Wedding welcome board",
@@ -10566,7 +10566,7 @@
                 "Custom Design"
             ]
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Weight bench",
@@ -10609,7 +10609,7 @@
             "kits": "6",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Wheelchair",
@@ -10633,7 +10633,7 @@
                 "Custom Design"
             ]
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Whirlpool bath",
@@ -10695,7 +10695,7 @@
             "kits": "2",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Wind turbine",
@@ -10757,7 +10757,7 @@
             "kits": "3",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Wooden bucket",
@@ -10803,7 +10803,7 @@
             "kits": "1",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Wooden chest",
@@ -10829,7 +10829,7 @@
             "kits": "3",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Wooden double bed",
@@ -10861,7 +10861,7 @@
                 "Custom Design"
             ]
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Wooden end table",
@@ -10887,7 +10887,7 @@
             "kits": "2",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Wooden full-length mirror",
@@ -10913,7 +10913,7 @@
             "kits": "2",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Wooden low table",
@@ -10939,7 +10939,7 @@
             "kits": "2",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Wooden mini table",
@@ -10972,7 +10972,7 @@
                 "Custom Design"
             ]
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Wooden simple bed",
@@ -11004,7 +11004,7 @@
                 "Custom Design"
             ]
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Wooden stool",
@@ -11037,7 +11037,7 @@
                 "Custom Design"
             ]
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Wooden table",
@@ -11070,7 +11070,7 @@
                 "Custom Design"
             ]
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Wooden wardrobe",
@@ -11096,7 +11096,7 @@
             "kits": "2",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Wooden waste bin",
@@ -11120,7 +11120,7 @@
             "kits": "1",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Wooden-block bed",
@@ -11143,7 +11143,7 @@
             "kits": "4",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Wooden-block bench",
@@ -11166,7 +11166,7 @@
             "kits": "2",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Wooden-block bookshelf",
@@ -11189,7 +11189,7 @@
             "kits": "1",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Wooden-block chair",
@@ -11212,7 +11212,7 @@
             "kits": "1",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Wooden-block chest",
@@ -11235,7 +11235,7 @@
             "kits": "3",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Wooden-block stereo",
@@ -11258,7 +11258,7 @@
             "kits": "4",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Wooden-block stool",
@@ -11281,7 +11281,7 @@
             "kits": "1",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Wooden-block table",
@@ -11304,7 +11304,7 @@
             "kits": "2",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Writing chair",
@@ -11326,7 +11326,7 @@
                 "Custom Design"
             ]
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Writing desk",
@@ -11412,7 +11412,7 @@
                 "Custom Design"
             ]
         },
-        "size": "Unknown"
+        "size": []
     },
     {
         "name": "Zen-style stone",
@@ -11435,6 +11435,6 @@
             "kits": "6",
             "options": []
         },
-        "size": "Unknown"
+        "size": []
     }
 ]
