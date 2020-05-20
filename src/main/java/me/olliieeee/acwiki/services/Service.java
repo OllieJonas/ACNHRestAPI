@@ -1,6 +1,7 @@
 package me.olliieeee.acwiki.services;
 
 import me.olliieeee.acwiki.types.ACItem;
+import org.springframework.stereotype.Repository;
 
 import java.util.Set;
 

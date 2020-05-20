@@ -13,5 +13,5 @@ public class Villager implements ACItem {
     private String personality;
     private String gender;
     private String birthday;
-    private String catchPhrase;
+    private String catchphrase;
 }

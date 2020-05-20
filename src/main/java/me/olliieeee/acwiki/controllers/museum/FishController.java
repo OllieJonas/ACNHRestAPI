@@ -1,7 +1,7 @@
 package me.olliieeee.acwiki.controllers.museum;
 
 import me.olliieeee.acwiki.controllers.Controller;
-import me.olliieeee.acwiki.services.museum.FishService;
+import me.olliieeee.acwiki.services.Service;
 import me.olliieeee.acwiki.services.museum.impl.FishServiceImpl;
 import me.olliieeee.acwiki.types.museum.Fish;
 import org.springframework.http.HttpStatus;
@@ -12,7 +12,7 @@ import java.util.stream.Collectors;
 
 @RestController
 @RequestMapping("/fish")
-public class FishController extends Controller<Fish> {
+public class FishController extends CreatureController<Service<Fish>> {
 
     public FishController() {
         super(new FishServiceImpl());

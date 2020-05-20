@@ -11,7 +11,7 @@ import java.util.function.Predicate;
 import java.util.function.Supplier;
 
 public abstract class MuseumServiceImpl<T extends MuseumItem> extends ServiceImpl<T> implements MuseumService<T> {
-    public MuseumServiceImpl(Supplier<TypeToken<Set<T>>> delegate, String file) {
-        super(delegate, file);
+    public MuseumServiceImpl(Supplier<TypeToken<Set<T>>> supplier, String file) {
+        super(supplier, file);
     }
 }

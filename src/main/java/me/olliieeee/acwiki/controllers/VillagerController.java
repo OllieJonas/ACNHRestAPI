@@ -1,5 +1,6 @@
 package me.olliieeee.acwiki.controllers;
 
+import me.olliieeee.acwiki.services.Service;
 import me.olliieeee.acwiki.services.VillagerService;
 import me.olliieeee.acwiki.services.VillagerServiceImpl;
 import me.olliieeee.acwiki.types.Villager;
@@ -11,15 +12,10 @@ import java.util.Set;
 
 @RestController
 @RequestMapping("/villagers")
-public class VillagerController extends Controller<Villager> {
+public class VillagerController extends Controller<Service<Villager>> {
 
     public VillagerController() {
         super(new VillagerServiceImpl());
     }
 
-//    @GetMapping(value = {"/{name}", "/name/{name}"})
-//    @ResponseStatus(HttpStatus.OK)
-//    public Set<Villager> getFishByName(@PathVariable("name") String name) {
-//        return service.getByName(prepareResponse(name));
-//    }
 }

@@ -2,6 +2,7 @@ package me.olliieeee.acwiki.controllers;
 
 import me.olliieeee.acwiki.services.Service;
 import me.olliieeee.acwiki.types.ACItem;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.ApplicationEventPublisher;
 import org.springframework.context.ApplicationEventPublisherAware;
 import org.springframework.http.HttpStatus;
@@ -14,14 +15,14 @@ import java.util.concurrent.atomic.AtomicLong;
 import java.util.zip.DataFormatException;
 
 @ControllerAdvice
-public abstract class Controller<T extends ACItem> implements ApplicationEventPublisherAware {
+public abstract class Controller<T extends Service<? extends ACItem>> implements ApplicationEventPublisherAware {
 
     protected final AtomicLong count = new AtomicLong();
     protected ApplicationEventPublisher publisher;
 
-    protected Service<T> service;
+    protected T service;
 
-    public Controller(Service<T> service) {
+    public Controller(T service) {
         this.service = service;
         service.init();
     }
@@ -40,13 +41,13 @@ public abstract class Controller<T extends ACItem> implements ApplicationEventPu
 
     @GetMapping(value = "")
     @ResponseStatus(HttpStatus.OK)
-    public Set<T> getAll() {
+    public Set<? extends ACItem> getAll() {
         return service.getAll();
     }
 
     @GetMapping(value = {"/{name}", "/name/{name}"})
     @ResponseStatus(HttpStatus.OK)
-    public Set<T> getByName(@PathVariable("name") String name) {
+    public Set<? extends ACItem> getByName(@PathVariable("name") String name) {
         return service.getByName(prepareResponse(name));
     }
 

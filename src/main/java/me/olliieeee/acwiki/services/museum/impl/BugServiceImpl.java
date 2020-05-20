@@ -1,7 +1,7 @@
 package me.olliieeee.acwiki.services.museum.impl;
 
 import com.google.gson.reflect.TypeToken;
-import me.olliieeee.acwiki.services.museum.BugService;
+import me.olliieeee.acwiki.services.museum.services.BugService;
 import me.olliieeee.acwiki.types.museum.Bug;
 
 import java.util.Set;

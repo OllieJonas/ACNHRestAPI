@@ -1,18 +1,15 @@
 package me.olliieeee.acwiki.controllers.museum;
 
 import me.olliieeee.acwiki.controllers.Controller;
-import me.olliieeee.acwiki.services.museum.BugService;
+import me.olliieeee.acwiki.services.Service;
 import me.olliieeee.acwiki.services.museum.impl.BugServiceImpl;
 import me.olliieeee.acwiki.types.museum.Bug;
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.http.HttpStatus;
-import org.springframework.web.bind.annotation.*;
-
-import java.util.Set;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 @RequestMapping("/bugs")
-public class BugController extends Controller<Bug> {
+public class BugController extends CreatureController<Service<Bug>> {
 
     public BugController() {
         super(new BugServiceImpl());

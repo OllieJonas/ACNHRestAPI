@@ -1,7 +1,7 @@
 package me.olliieeee.acwiki.services.museum.impl;
 
 import com.google.gson.reflect.TypeToken;
-import me.olliieeee.acwiki.services.museum.SculptureService;
+import me.olliieeee.acwiki.services.museum.services.SculptureService;
 import me.olliieeee.acwiki.types.museum.Art;
 
 public class SculptureServiceImpl extends MuseumServiceImpl<Art> implements SculptureService {
